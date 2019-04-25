@@ -1,3 +1,3 @@
  # Prática de Git
 ## Exemplo de Markdown
-`git help`
+`git init` - inicia o Git no diretório atual
